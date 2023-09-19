@@ -16,4 +16,4 @@ La librería está disponible para Windows 10, MacOS y Linux. Sin embargo, por f
 
 Para mayores detalles ver [Repo](https://github.com/qcfinancial/qcfinancial.git).
 
-La documentación de uso de la librería está en [Docs] (https://qcfinancial.github.io/qcfinancial-docs/)
+La documentación de uso de la librería está en [Docs](https://qcfinancial.github.io/qcfinancial-docs/)
