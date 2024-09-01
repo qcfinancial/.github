@@ -17,3 +17,13 @@ La librería está disponible para Windows 10, MacOS y Linux. Sin embargo, por f
 Para mayores detalles ver [Repo](https://github.com/qcfinancial/qcfinancial.git).
 
 La documentación de uso de la librería está en [Docs](https://qcfinancial.github.io/qcfinancial-docs/)
+
+The library is available for Windows 10, macOS, and Linux. However, please consider the following:
+
+- This is a library with a C++ core, and only wheels are distributed.
+- For some platforms and Python versions, those wheels might not be available.
+- If the installation encounters any errors, please open an issue here on GitHub, which we will try to resolve as soon as possible.
+
+For more details see [Repo](https://github.com/qcfinancial/qcfinancial.git) (Spanish).
+
+Documentation is found at [Docs](https://qcfinancial.github.io/qcfinancial-docs/)
