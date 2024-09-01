@@ -1,6 +1,7 @@
 # `qcfinancial`
 
-Librería para la valorización de derivados de tasa de interés y tipo de cambio.
+Librería para la valorización de derivados lineales de tasa de interés y tipo de cambio.
+Library for the valuation of interest rate and FX linear derivatives.
 
 ## Instalación
 
